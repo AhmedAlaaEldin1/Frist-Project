@@ -17,14 +17,10 @@ To turn raw Superstore sales data into actionable insights through interactive, 
 - Conditional formatting to highlight key metrics
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](images/dashboard_screenshot.png)
-
+https://github.com/AhmedAlaaEldin1/Frist-Project/blob/main/Screenshot%202025-03-23%20051351.png
+https://github.com/AhmedAlaaEldin1/Frist-Project/blob/main/Screenshot%202025-03-23%20051453.png
 ## 📁 File Structure
-- `Superstore_Sales_Report.pbix` – Main Power BI report file
-- `dataset/superstore_data.csv` – Source data (if shareable)
-- `images/` – Dashboard screenshots
-- `README.md` – Project description
-
+- https://github.com/AhmedAlaaEldin1/Frist-Project/blob/main/Screenshot%202025-03-23%20051453.png – Main Power BI report file
 ## 💡 What I Learned
 This project helped me strengthen my data visualization skills, improve my use of DAX, and tell a compelling story through data to support business decision-making.
 
